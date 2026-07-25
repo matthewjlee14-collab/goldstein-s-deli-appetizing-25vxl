@@ -1,2 +1,5 @@
-# goldstein-s-deli-appetizing-25vxl
-Goldstein's Deli &amp; Appetizing — Traditional Jewish comfort food passed down through generations.
+# Goldstein's Deli & Appetizing
+
+Traditional Jewish comfort food passed down through generations.
+
+Generated with [Lumen](https://lumentakeover.lovable.app) — an AI website builder for small businesses.
